@@ -1,10 +1,7 @@
 ```
-
-파란하늘 뭉게구름 거대한 호수에 작은 섬 몇개가 있음.
-
-
-
- 둥근접시의 90도마다  외측 4부분에 4개의 원형과 일체화된 접시가 딱 붙어있음.
- 그것은 하늘에 떠있고 투명한 통창이 돋보이는 2층 통창으로된 배에 와이어 줄을 접시가 매달아놓음.
- 같이 생긴 투명창으로 화이트색으로 되있는 얇은 테두리  된구조임. 
+A large lake with small islands visible, blue skies with puffy clouds.
+A futuristic glass house sits on the calm sea surface, suspended beneath a platform.
+A massive, smooth white circular disk, with four circular dish-shaped rims attached at 90-degree intervals. 
+The disk is solid and gleaming like a UFO,
+A futuristic glass house with two levels rests on the surface of the calm sea, suspended by wires beneath a massive, smooth white circular disk platform. The disk is solid and gleaming like a UFO, bathed in bright, clear sunlight. Surreal and cinematic.
 ```
