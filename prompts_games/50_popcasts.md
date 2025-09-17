@@ -161,7 +161,7 @@
 
 ## 동물 캐릭터 이미지 
 https://labs.google/fx/ko/tools/whisk/share/691rk2sv80000
-https://labs.google/fx/ko/tools/whisk/share/2up3c8fkr0000
+https://labs.google/fx/ko/tools/whisk/share/6ghbdhkg20000
 
 ## 신빙성 자료
 ![alt text](분쟁.png)
@@ -169,5 +169,6 @@ https://labs.google/fx/ko/tools/whisk/share/2up3c8fkr0000
 
 ## 배경 화면
 https://labs.google/fx/tools/whisk/share/5bms2ov18g000
+
 
 
