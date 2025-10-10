@@ -54,4 +54,4 @@ https://www.yna.co.kr/view/AKR20251010053151001
 
 #### **2. 발행일 및 기사 링크**
 **발행일:** 2025년 10월 10일 (금)
-**기사 링크:** [https://www.yna.co.kr/view/AKR20251010053151001](https://www.yna.co.kr/view/AKR20251010053151001)
+**기사 링크:** [https://www.yna.co.kr/view/AKR20251010053151001]
